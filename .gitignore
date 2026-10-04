@@ -1,0 +1,20 @@
+# ── 原始素材全文：不随仓库分发 ──────────────────────────────
+# references/source-text/ 下是《讲谈社·日本的历史》中文版十册的
+# epub 解包全文（japan-history.txt，525 万字节）与分册框架章节
+# （key-sections/j02–j11.txt），合计约 5.3MB。
+# 这套书仍在版权保护期内，公开仓库不应全文收录。
+# 本档案的行号引用以其解包文本为准，核对方法见 01-sources.md。
+references/source-text/
+
+# ── 系统与编辑器 ──────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.vscode/
+.idea/
+
+# ── 临时文件 ──────────────────────────────
+*.tmp
+*.new
+~$*
