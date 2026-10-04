@@ -16,10 +16,12 @@
 
 ```bash
 # WorkBuddy
-git clone <本仓库地址> ~/.workbuddy/skills/kodansha-japan-history-perspective
+git clone https://github.com/dxl681505/kodansha-japan-history-perspective.git \
+  ~/.workbuddy/skills/kodansha-japan-history-perspective
 
 # Claude Code
-git clone <本仓库地址> ~/.claude/skills/kodansha-japan-history-perspective
+git clone https://github.com/dxl681505/kodansha-japan-history-perspective.git \
+  ~/.claude/skills/kodansha-japan-history-perspective
 ```
 
 之后直接对话：
@@ -118,7 +120,7 @@ references/
 
 ## 姊妹档案
 
-同一方法产出的另一套：《讲谈社·兴亡的世界史》分析框架——`kodansha-world-history-perspective`。
+同一方法产出的另一套：《讲谈社·兴亡的世界史》分析框架——[kodansha-world-history-perspective](https://github.com/dxl681505/kodansha-world-history-perspective)。
 
 两套书的性格不同，可以对照使用：世界史是**横切**（每卷锁一个文明/帝国单位），日本史是**纵贯**（按时代接续通史）。
 
